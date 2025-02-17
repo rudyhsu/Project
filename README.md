@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="poster.png" width="800" alt="Description">
+  <img src="poster.png" width="1300" alt="Description">
 </p>
 
